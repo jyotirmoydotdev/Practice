@@ -18,4 +18,5 @@ int main() {
     b[0]=a1;
     cout<<a<<" "<<b<<endl;
     return 0;
+    // done
 }
